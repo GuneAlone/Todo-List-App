@@ -1,0 +1,36 @@
+C:\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\bin\Debug\net8.0-windows\Todo List App WinForms.exe
+C:\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\bin\Debug\net8.0-windows\Todo List App WinForms.deps.json
+C:\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\bin\Debug\net8.0-windows\Todo List App WinForms.runtimeconfig.json
+C:\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\bin\Debug\net8.0-windows\Todo List App WinForms.dll
+C:\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\bin\Debug\net8.0-windows\Todo List App WinForms.pdb
+C:\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo List App WinForms.csproj.GenerateResource.cache
+C:\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo List App WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo List App WinForms.AssemblyInfoInputs.cache
+C:\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo List App WinForms.AssemblyInfo.cs
+C:\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo List App WinForms.csproj.CoreCompileInputs.cache
+C:\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo List App WinForms.dll
+C:\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\refint\Todo List App WinForms.dll
+C:\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo List App WinForms.pdb
+C:\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo List App WinForms.genruntimeconfig.cache
+C:\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\ref\Todo List App WinForms.dll
+C:\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo_List_App_WinForms.Properties.Resources.resources
+C:\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo_List_App_WinForms.Form1.resources
+C:\Projects\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\bin\Debug\net8.0-windows\Todo List App WinForms.exe
+C:\Projects\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\bin\Debug\net8.0-windows\Todo List App WinForms.dll
+C:\Projects\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\bin\Debug\net8.0-windows\Todo List App WinForms.deps.json
+C:\Projects\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\bin\Debug\net8.0-windows\Todo List App WinForms.runtimeconfig.json
+C:\Projects\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\bin\Debug\net8.0-windows\Todo List App WinForms.pdb
+C:\Projects\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo_List_App_WinForms.Properties.Resources.resources
+C:\Projects\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo_List_App_WinForms.RecurringTask.resources
+C:\Projects\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo_List_App_WinForms.TodoForm.resources
+C:\Projects\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo List App WinForms.csproj.GenerateResource.cache
+C:\Projects\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo List App WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo List App WinForms.AssemblyInfoInputs.cache
+C:\Projects\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo List App WinForms.AssemblyInfo.cs
+C:\Projects\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo List App WinForms.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo List App WinForms.sourcelink.json
+C:\Projects\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo List App WinForms.dll
+C:\Projects\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\refint\Todo List App WinForms.dll
+C:\Projects\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo List App WinForms.pdb
+C:\Projects\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\Todo List App WinForms.genruntimeconfig.cache
+C:\Projects\C# Projects\05-TodoList\Todo List App WinForms\Todo List App WinForms\obj\Debug\net8.0-windows\ref\Todo List App WinForms.dll
