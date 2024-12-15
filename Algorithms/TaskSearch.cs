@@ -32,8 +32,7 @@ public static class TaskSearch
         }
 
         if (!anyMatch)
-        {
-            CustomExceptionHandler.HandleNoTasksFound(); 
+        { 
         }
     }
 }

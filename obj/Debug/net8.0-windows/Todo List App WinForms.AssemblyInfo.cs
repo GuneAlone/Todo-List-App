@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Todo List App WinForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8b6913d82de083e8f990133605f8ec9cc93cc3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e28689e83372450da6b1f9b628efa38e9794bfa2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Todo List App WinForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Todo List App WinForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

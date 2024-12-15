@@ -13,7 +13,7 @@ namespace Todo_List_App_WinForms
             TaskTimer = new System.Windows.Forms.Timer();
         }
 
-        [JsonConstructor]
+        //[JsonConstructor]
         public RecurringTask(System.Windows.Forms.Timer taskTimer)
         {
             TaskTimer = taskTimer;

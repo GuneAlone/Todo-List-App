@@ -11,6 +11,7 @@ namespace Todo_List_App_WinForms
     public partial class TodoForm : Form
     {
         private readonly string filePath = "tasks.json";
+        private bool isResetting = false;
 
         public TodoForm()
         {
@@ -87,7 +88,7 @@ namespace Todo_List_App_WinForms
                 CustomExceptionHandler.HandleShortTaskName();
                 return;
             }
-    
+
             if (TaskNameInputField.Text.Length > 10)
             {
                 CustomExceptionHandler.HandleLongTaskName();
@@ -141,7 +142,6 @@ namespace Todo_List_App_WinForms
             JSONTaskStorage.SaveTasks(TasksPanel, filePath);
         }
 
-
         internal void UpdateImportantLabel()
         {
             int importantTaskCount = TasksPanel.Controls.OfType<Panel>()
@@ -187,6 +187,7 @@ namespace Todo_List_App_WinForms
 
         private void ResetButton_Click(object sender, EventArgs e)
         {
+            isResetting = true;
             this.Opacity = 1;
             Timer fadeOutTimer = new Timer { Interval = 30 };
 
@@ -222,8 +223,8 @@ namespace Todo_List_App_WinForms
         {
             base.OnFormClosing(e);
 
-            if (!string.IsNullOrEmpty(TaskNameInputField.Text) || !string.IsNullOrEmpty(TaskDescriptionInputField.Text))
-            {          
+            if (!(isResetting || string.IsNullOrEmpty(TaskNameInputField.Text) && string.IsNullOrEmpty(TaskDescriptionInputField.Text)))
+            {
                 CustomExceptionHandler.HandleUnfinishedTaskAddition(e);
                 if (e.Cancel)
                 {
@@ -235,5 +236,7 @@ namespace Todo_List_App_WinForms
                 JSONTaskStorage.SaveTasks(TasksPanel, filePath);
             }
         }
+
+      
     }
 }

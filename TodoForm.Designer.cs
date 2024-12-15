@@ -210,6 +210,7 @@
             TaskTypePickFilter.Name = "TaskTypePickFilter";
             TaskTypePickFilter.Size = new Size(244, 24);
             TaskTypePickFilter.TabIndex = 3;
+           
             // 
             // LabelTaskType
             // 
